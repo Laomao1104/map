@@ -4,6 +4,7 @@
 ![oppo文件管理](photo/my-files.jpg)
 ### oppo文件管理12破解版下载
 [点击这里](https://www.pling.com/p/1686243)
+
 （如手机是OPPO,就使用原装文件管理器，无需安装）
 ##### 找到档案
 
