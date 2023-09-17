@@ -23,14 +23,6 @@
 
 ### 点击档案（有些文件管理器需要点击文档类型）
 
-
-
-
-<video width="630" height="300" src="https://github.com/Laomao1104/map/assets/124508738/476a8583-b7ed-4e5e-ab02-16f9e5a14f84"></video>
-
-
-
-
-
+https://github.com/Laomao1104/map/assets/124508738/476a8583-b7ed-4e5e-ab02-16f9e5a14f84
 
 ### 即可可以完成导入
