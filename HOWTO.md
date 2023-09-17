@@ -14,7 +14,7 @@
 
 ### astro文件管理器下载（由于发现应用在play商店下架所放出来的APK链接）
 
-[点击这里](https://pool.apk.aptoide.com/catappult/com-metago-astro-2020031211-50786731-3493b5783bad84752b86bfeed6af543a.apk)
+[点击这里](https://secure.downloadfp.com/android/US/com.metago.astro/2022071912/astro-file-manager.apk?st=UPo2xQuaed_JW6SQeMkJkw&e=1694965990)
 
 
 ## 找到档案
