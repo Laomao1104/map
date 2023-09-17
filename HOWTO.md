@@ -11,7 +11,7 @@
 ### 文件管理器下载「随你喜欢」(在play商店）
 
 [点击这里](https://play.google.com/store/search?q=file+manager&c=apps)
-（如手机是OPPO手机,可以使用原装文件管理器，无需安装任何软件）
+
 ## 找到档案
 
 ### 点击档案（有些文件管理器需要点击文档类型）
