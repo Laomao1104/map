@@ -1,7 +1,7 @@
 # 如何安装地图
 ##### 首先，先下载此应用（可以下载有相容的应用
-![astro文件管理器](photo/astro.jpg)
-![ColorOS文件管理](photo/my-files.jpg)
+<p><img src="photo/astro.jpg" width="32%" />
+<img src="screenshot/01-immersive.jpg" width="32%" /></p>
 
 ### ColorOS文件管理12破解版下载
 [点击这里](https://www.pling.com/p/1686243)
