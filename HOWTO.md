@@ -24,7 +24,12 @@
 ### 点击档案（有些文件管理器需要点击文档类型）
 
 
-https://github.com/Laomao1104/map/assets/124508738/d712cf12-c21c-45ff-ba95-2c1bf508e702
+
+
+<video width="630" height="300" src="https://github.com/Laomao1104/map/assets/124508738/476a8583-b7ed-4e5e-ab02-16f9e5a14f84"></video>
+
+
+
 
 
 
