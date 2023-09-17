@@ -10,7 +10,7 @@
 
 ### 文件管理器下载「随你喜欢」(在play商店）
 
-[点击这里](https://play.google.com/store/search?q=file+manager&c=apps)
+[点击这里］(https://play.google.com/store/search?q=file+manager&c=apps)
 
 ### astro文件管理器下载（由于发现应用在play商店下架所放出来的APK链接）
 [点击这里]
