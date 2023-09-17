@@ -24,7 +24,7 @@
 ### 点击档案（有些文件管理器需要点击文档类型）
 
 
-<video width="300" height="630" src="https://github.com/Laomao1104/map/assets/124508738/d712cf12-c21c-45ff-ba95-2c1bf508e702"></video>
+<video width="300" height="630" src="https://github-production-user-asset-6210df.s3.amazonaws.com/124508738/268503710-d712cf12-c21c-45ff-ba95-2c1bf508e702.mp4"></video>
 
 
 
