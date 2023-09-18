@@ -19,7 +19,7 @@
 
 ## 找到档案
 
-<p><img src="photo/Screenshot_20230917_205929.jpg" width="51%" /></p>
+<p><img src="photo/Screenshot_20230917_205929.jpg" width="61%" /></p>
 
 ### 点击档案（有些文件管理器需要点击文档类型）
 
