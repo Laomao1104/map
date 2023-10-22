@@ -14,7 +14,7 @@
 
 [点击这里](https://play.google.com/store/search?q=file+manager&c=apps)
 
-### astro文件管理器下载
+### Astro文件管理器下载
 
 [点击这里](https://play.google.com/store/apps/details?id=com.metago.astro)
 
