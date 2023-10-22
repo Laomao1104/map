@@ -23,7 +23,10 @@
 
 <p><img src="photo/Screenshot_20230917_205929.jpg" width="61%" /></p>
 
-### 点击档案（有些文件管理器需要点击文档类型）
+### 点击档案
+
+>有些文件管理器需要点击文档类型
+>
 
 https://github.com/Laomao1104/map/assets/124508738/476a8583-b7ed-4e5e-ab02-16f9e5a14f84
 
