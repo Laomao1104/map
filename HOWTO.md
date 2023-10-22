@@ -19,7 +19,12 @@
 [点击这里](https://play.google.com/store/apps/details?id=com.metago.astro)
 
 
-## 找到档案
+
+
+## 2.找到档案（如果乱）
+
+>在Download文件夹📁内
+>
 
 <p><img src="photo/Screenshot_20230917_205929.jpg" width="61%" /></p>
 
