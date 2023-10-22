@@ -23,10 +23,6 @@
 [点击这里](https://play.google.com/store/apps/details?id=com.google.android.apps.nbu.files)
 
 
-
-
-
-
 ## 2.找到档案（如果乱）
 
 >在Download文件夹📁内
