@@ -6,16 +6,17 @@
 ### ColorOS文件管理12破解版下载
 [点击这里](https://www.pling.com/p/1686243)
 
-（如手机是OPPO手机,可以使用原装文件管理器，无需安装任何软件）
+>如手机是OPPO手机,可以使用原装文件
+>管理器，无需安装任何软件
+>
 
 ### 文件管理器下载「随你喜欢」(在play商店）
 
 [点击这里](https://play.google.com/store/search?q=file+manager&c=apps)
 
 ### astro文件管理器下载
-（由于发现应用在**play商店**下架所放出来的APK链接）
 
-[点击这里](https://d.apkpure.com/b/APK/com.metago.astro?versionCode=2023063012&nc=&sv=2365990)
+[点击这里](https://play.google.com/store/apps/details?id=com.metago.astro)
 
 
 ## 找到档案
