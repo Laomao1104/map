@@ -18,7 +18,7 @@
 
 [点击这里](https://play.google.com/store/apps/details?id=com.metago.astro)
 
-### Files by Google
+### Files by Google(不要下载旧版）
 
 [点击这里](https://play.google.com/store/apps/details?id=com.google.android.apps.nbu.files)
 
