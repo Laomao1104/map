@@ -23,9 +23,9 @@
 [点击这里](https://play.google.com/store/apps/details?id=com.google.android.apps.nbu.files)
 
 
-## 2.找到档案（如果乱）
+## 2.找档案（如果乱）
 
->在Download文件夹📁内
+>在storage/emulated/0/Download文件夹📁内
 >
 
 <p><img src="photo/Screenshot_20230917_205929.jpg" width="61%" /></p>
@@ -37,4 +37,4 @@
 
 https://github.com/Laomao1104/map/assets/124508738/476a8583-b7ed-4e5e-ab02-16f9e5a14f84
 
-### 即可可以完成导入
+### 即可完成导入
